@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ianwengchan
+- 👋 Hi, I’m Sophia Chan.
 - 👀 I’m interested in actuarial science.
 - 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on statistical modelling in general insurance.
