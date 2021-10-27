@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sophia Chan.
-- 👀 I’m interested in actuarial science.
-- 🌱 I’m currently learning data science.
+- 👀 My research focus is in actuarial science.
+- 🌱 I’m currently picking up data science and machine learning techniques.
 - 💞️ I’m looking to collaborate on statistical modelling in general insurance.
 - 📫 How to reach me: ianweng [dot] chan [at] mail [dot] utoronto [dot] ca
 
