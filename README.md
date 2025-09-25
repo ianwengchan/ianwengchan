@@ -2,7 +2,7 @@
 - 👀 My research focus is in actuarial science.
 - 🌱 I’m currently picking up data science and machine learning techniques.
 - 💞️ I’m looking to collaborate on statistical modelling in general insurance.
-- 📫 How to reach me: ianweng [dot] chan [at] mail [dot] utoronto [dot] ca
+- 📫 How to reach me: ianweng [dot] chan [at] ntu [dot] edu [dot] sg
 
 <!---
 ianwengchan/ianwengchan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
